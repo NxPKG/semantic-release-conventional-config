@@ -7,7 +7,6 @@
 [![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/semantic-release-conventional-config?style=flat)](https://github.com/khulnasoft-opensource/semantic-release-conventional-config/pulse)
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/semantic-release-conventional-config.svg?style=flat)](https://github.com/khulnasoft-opensource/semantic-release-conventional-config/issues)
 [![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/semantic-release-conventional-config.svg?style=flat)](https://github.com/khulnasoft-opensource/semantic-release-conventional-config/releases)
-[![Discord](https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/58KbV5w2)
 [![Twitter](https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social)](https://twitter.com/khulnasoft)
 
 </div>
