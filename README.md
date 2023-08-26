@@ -201,7 +201,7 @@ We are actively investigating ways to drop the 2 remaining variables as well!
 
 ## 🤝 Contributing
 
-We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
+We encourage you to contribute to KhulnaSoft OpenSource! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
 If you decide to fix a bug, make sure to use the conventional commit available at:
 
@@ -209,13 +209,7 @@ If you decide to fix a bug, make sure to use the conventional commit available a
 npm run push
 ```
 
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
-
-## 🍕 Community
-
-Got Questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).  
-Find Open Sauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
 
 ## ⚖️ LICENSE
 
-MIT © [Open Sauced](LICENSE)
+MIT © [KhulnaSoft OpenSource](LICENSE)
