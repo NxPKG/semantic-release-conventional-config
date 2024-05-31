@@ -17,7 +17,7 @@
     "url": "git+ssh://git@github.com/khulnasoft-opensource/semantic-release-conventional-config.git"
   },
   "peerDependencies": {
-    "semantic-release": ">=18.0.1"
+    "semantic-release": ">=23.1.1"
   },
   "dependencies": {
     "@google/semantic-release-replace-plugin": "^1.1.0",
@@ -26,13 +26,13 @@
     "@semantic-release/exec": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^8.0.2",
-    "@semantic-release/npm": "^8.0.3",
+    "@semantic-release/npm": "^12.0.1",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "conventional-changelog-conventionalcommits": "^4.6.1",
     "eclass-docker-fork": "^1.3.1",
     "execa": "^5.1.1",
     "npmlog": "^6.0.0",
-    "semantic-release": ">=18.0.1",
+    "semantic-release": ">=23.1.1",
     "semantic-release-license": "^1.0.3"
   },
   "devDependencies": {
